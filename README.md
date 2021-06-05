@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rizky a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rizky-adji-ab624a1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky adji" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/tsucie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tsucie" height="30" width="40" /></a>
-<a href="https://fb.com/rizky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizky" height="30" width="40" /></a>
-<a href="https://instagram.com/@adji_png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@adji_png" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rizky.adjiepangestu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizky" height="30" width="40" /></a>
+<a href="https://instagram.com/adji_png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@adji_png" height="30" width="40" /></a>
 <a href="https://discord.gg/Tsucie#9296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tsucie#9296" height="30" width="40" /></a>
 </p>
 
