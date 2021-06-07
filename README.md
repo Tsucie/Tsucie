@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1E-wYD0xFNpP6sQisnJ3wM56yWk-pF5J15tDq6-bj-UE)
 
-- ⚡ Fun fact **Im a Night Owl Person**
+<!-- - ⚡ Fun fact **Im a Night Owl Person** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
