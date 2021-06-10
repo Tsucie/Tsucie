@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rizky</h1>
 <h3 align="center">A Passionate Back End Developer from Indonesia</h3>
-
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tsucie&label=Profile%20views&color=0e75b6&style=flat" alt="tsucie" /> </p>
+-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsucie" alt="tsucie" /></a> </p>
 
 - 🔭 I’m currently working on [Wacara](private)
 
@@ -98,7 +98,9 @@
   </a>  -->
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsucie&show_icons=true&locale=en&layout=compact" alt="tsucie" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsucie" alt="tsucie" /></a> </p>
+
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsucie&show_icons=true&locale=en&layout=compact" alt="tsucie" /></p> -->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsucie&show_icons=true&locale=en" alt="tsucie" /></p>
 
