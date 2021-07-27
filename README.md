@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizky</h1>
-<h3 align="center">A Passionate Back End Developer from Indonesia</h3>
+<h3 align="center">BackEnd Developer from Indonesia</h3>
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tsucie&label=Profile%20views&color=0e75b6&style=flat" alt="tsucie" /> </p>
 -->
@@ -11,15 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Wacara](private)
 
-- 🤝 I’m looking for help with [Wacara](private)
-
-- 👨‍💻 All of my projects are available at [github.com/Tsucie](github.com/Tsucie)
-
 - 💬 Ask me about **.NET Core, Laravel, Other BackEnd Development**
-
-- 📫 How to reach me **rizkyadji21@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1E-wYD0xFNpP6sQisnJ3wM56yWk-pF5J15tDq6-bj-UE)
 
 <!-- - ⚡ Fun fact **Im a Night Owl Person** -->
 
