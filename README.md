@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Wacara](private)
 
-- 🌱 I’m currently learning **Laravel, Unity, some FrontEnd tools**
+<!-- - 🌱 I’m currently learning **Laravel, Unity, some FrontEnd tools** -->
 
 - 👯 I’m looking to collaborate on [Wacara](private)
 
