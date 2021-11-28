@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsucie&show_icons=true&locale=en&layout=compact&theme=merko" alt="tsucie" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsucie&show_icons=true&locale=en&layout=compact&theme=merko" alt="tsucie" />
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
