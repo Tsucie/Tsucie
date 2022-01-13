@@ -63,6 +63,9 @@
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
   </a>
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a>
 </p>
 
 <h3 align="left">Databases:</h3>
