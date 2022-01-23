@@ -5,9 +5,9 @@
 <h1 align="left">Hi 👋, I'm Rizky</h1>
 <h3 align="left">BackEnd Developer from Indonesia</h3>
 
-- I’m currently working on [Wacara](private)
+<!-- - I’m currently working on [Wacara](private)
 
-- I’m looking to collaborate on [Wacara](private)
+- I’m looking to collaborate on [Wacara](private) -->
 
 - Ask me about **.NET Core, Laravel, Other BackEnd Development**
 
