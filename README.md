@@ -1,15 +1,15 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=tsucie&show_icons=true&locale=en&theme=merko" alt="tsucie" /> -->
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tsucie&theme=merko" alt="tsucie" />
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tsucie&theme=merko" alt="tsucie" />
 
 <h1 align="left">Hi 👋, I'm Rizky</h1>
-<h3 align="left">BackEnd Developer from Indonesia</h3>
+<h3 align="left">BackEnd Developer from Indonesia</h3> -->
 
 <!-- - I’m currently working on [Wacara](private)
 
 - I’m looking to collaborate on [Wacara](private) -->
 
-- Ask me about **.NET Core, Laravel, Other BackEnd Development**
+<!-- - Ask me about **.NET Core, Laravel, Other BackEnd Development**
 
 <h2>Portfolio Projects : <a href="https://www.canva.com/design/DAEu2d4XY7Y/Bn3Go-SEEgtQQG2WiKlYxQ/view?utm_content=DAEu2d4XY7Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">View</a></h2>
 
@@ -119,4 +119,4 @@
   </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-</p>
+</p> -->
